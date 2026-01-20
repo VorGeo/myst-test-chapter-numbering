@@ -16,5 +16,7 @@ project:
       children:
         - file: content/3/3a.md
     - file: content/4.md
+  numbering: 
+    title: true
 site:
   template: book-theme
